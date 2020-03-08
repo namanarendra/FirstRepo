@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 981E-ED48
+
+ Directory of C:\Users\Narendra\Desktop\MyGitFirstProject
+
+08-Mar-20  12:15 PM    <DIR>          .
+08-Mar-20  12:15 PM    <DIR>          ..
+08-Mar-20  12:15 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  43,074,289,664 bytes free
